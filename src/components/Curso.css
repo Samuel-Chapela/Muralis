@@ -1,0 +1,16 @@
+.DCurso{
+    padding: 0 20px;
+}
+select {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background: white;
+    width: 200px;
+    height: 25px;
+  }
+  
+  select:focus {
+    border-color: #66afe9;
+    outline: none;
+  }

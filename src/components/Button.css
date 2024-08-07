@@ -1,0 +1,30 @@
+.botao1{
+    background-color: rgb(255, 247, 0);
+    color: rgba(44, 44, 44, 0.836);
+    height: 22px;
+    width: 73px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 15px;
+}
+
+.message{
+    color: rgb(12, 99, 0);
+    font-size: 15px;
+    text-align: center;
+    padding: 0;
+    margin: 1px;
+    margin-right: 10px;
+}
+
+.botao2{
+    height: 35px;
+    width: 77px;
+    background-color: rgb(54, 225, 54);
+    border-radius: 5px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgba(44, 44, 44, 0.836);
+    cursor: pointer;
+    margin-left: 50px;
+}

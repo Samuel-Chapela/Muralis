@@ -1,0 +1,10 @@
+.DName{
+    padding: 0 20px;
+  }
+  input{
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background: white;
+    width: 195px;
+    height: 21px;
+  }
